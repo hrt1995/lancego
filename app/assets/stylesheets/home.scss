@@ -26,3 +26,23 @@
   padding-left:15px;
   margin:0 auto;
 }
+
+.top-messages{
+  margin-top:50px;
+}
+
+.top-message{
+  width:33%;
+  float:left;
+}
+
+.top-message-image{
+  position:relative;
+}
+
+.top-message-contents{
+  width:80%;
+  display:inline-block;
+  font-size:13px;
+  font-weight:thin;
+}
